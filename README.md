@@ -42,11 +42,19 @@ Evaluate its performance using metrics such as accuracy
 The final model with the best performance will be selected and saved for future predictions.
 
 **Requirements**
+
 Python 3.12
+
 Libraries:
+
 pandas
+
 numpy
+
 scikit-learn
 
+
+
 **Result**
+
 The best model achieved an accuracy of 84% on the test set.
