@@ -7,9 +7,13 @@
 This project uses a machine learning model to classify objects as either rocks or mines based on sonar signal returns. The dataset consists of 60 features corresponding to the strength of sonar signals, and each sample is labeled as either rock (R) or mine (M).
 
 **Dataset**
+
 Source: UCI Machine Learning Repository (Sonar dataset)
+
 Size: 208 samples
+
 Features: 60 numerical features
+
 Target:
 R for Rocks
 M for Mines
@@ -44,5 +48,5 @@ pandas
 numpy
 scikit-learn
 
-Result 
+**Result**
 The best model achieved an accuracy of 84% on the test set.
